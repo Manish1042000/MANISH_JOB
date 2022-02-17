@@ -17,4 +17,8 @@ Roles:
     Can't see anyone else's job applications
 
 -ADMIN
-    Can manipulate app data.
+
+    Can manipulate data.
+    
+
+  
